@@ -1,0 +1,286 @@
+<?xml version="1.0"?>
+<global>
+	<opcode name="ampeg_release" value="8" />
+</global>
+<group>
+	<opcode name="key" value="57" />
+</group>
+<region>
+	<opcode name="lorand" value="0.0" />
+	<opcode name="hirand" value="0.2" />
+	<opcode name="sample" value="samples/A3_01.flac" />
+</region>
+<region>
+	<opcode name="lorand" value="0.2" />
+	<opcode name="hirand" value="0.4" />
+	<opcode name="sample" value="samples/A3_02.flac" />
+</region>
+<region>
+	<opcode name="lorand" value="0.4" />
+	<opcode name="hirand" value="0.6" />
+	<opcode name="sample" value="samples/A3_03.flac" />
+</region>
+<region>
+	<opcode name="lorand" value="0.6" />
+	<opcode name="hirand" value="0.8" />
+	<opcode name="sample" value="samples/A3_04.flac" />
+</region>
+<region>
+	<opcode name="lorand" value="0.8" />
+	<opcode name="hirand" value="1.0" />
+	<opcode name="sample" value="samples/A3_05.flac" />
+</region>
+<group>
+	<opcode name="key" value="62" />
+</group>
+<region>
+	<opcode name="lorand" value="0.0" />
+	<opcode name="hirand" value="0.1428" />
+	<opcode name="sample" value="samples/D4_01.flac" />
+</region>
+<region>
+	<opcode name="lorand" value="0.1428" />
+	<opcode name="hirand" value="0.2857" />
+	<opcode name="sample" value="samples/D4_02.flac" />
+</region>
+<region>
+	<opcode name="lorand" value="0.2857" />
+	<opcode name="hirand" value="0.4286" />
+	<opcode name="sample" value="samples/D4_03.flac" />
+</region>
+<region>
+	<opcode name="lorand" value="0.4286" />
+	<opcode name="hirand" value="0.5714" />
+	<opcode name="sample" value="samples/D4_04.flac" />
+</region>
+<region>
+	<opcode name="lorand" value="0.5714" />
+	<opcode name="hirand" value="0.7143" />
+	<opcode name="sample" value="samples/D4_05.flac" />
+</region>
+<region>
+	<opcode name="lorand" value="0.7143" />
+	<opcode name="hirand" value="0.8571" />
+	<opcode name="sample" value="samples/D4_06.flac" />
+</region>
+<region>
+	<opcode name="lorand" value="0.8571" />
+	<opcode name="hirand" value="1.0" />
+	<opcode name="sample" value="samples/D4_07.flac" />
+</region>
+<group>
+	<opcode name="key" value="64" />
+</group>
+<region>
+	<opcode name="lorand" value="0.0" />
+	<opcode name="hirand" value="0.1667" />
+	<opcode name="sample" value="samples/E4_01.flac" />
+</region>
+<region>
+	<opcode name="lorand" value="0.1667" />
+	<opcode name="hirand" value="0.3333" />
+	<opcode name="sample" value="samples/E4_02.flac" />
+</region>
+<region>
+	<opcode name="lorand" value="0.3333" />
+	<opcode name="hirand" value="0.5" />
+	<opcode name="sample" value="samples/E4_03.flac" />
+</region>
+<region>
+	<opcode name="lorand" value="0.5" />
+	<opcode name="hirand" value="0.6667" />
+	<opcode name="sample" value="samples/E4_04.flac" />
+</region>
+<region>
+	<opcode name="lorand" value="0.6667" />
+	<opcode name="hirand" value="0.8333" />
+	<opcode name="sample" value="samples/E4_05.flac" />
+</region>
+<region>
+	<opcode name="lorand" value="0.8333" />
+	<opcode name="hirand" value="1.0" />
+	<opcode name="sample" value="samples/E4_06.flac" />
+</region>
+<group>
+	<opcode name="key" value="65" />
+</group>
+<region>
+	<opcode name="lorand" value="0.0" />
+	<opcode name="hirand" value="0.1667" />
+	<opcode name="sample" value="samples/F4_01.flac" />
+</region>
+<region>
+	<opcode name="lorand" value="0.1667" />
+	<opcode name="hirand" value="0.3333" />
+	<opcode name="sample" value="samples/F4_02.flac" />
+</region>
+<region>
+	<opcode name="lorand" value="0.3333" />
+	<opcode name="hirand" value="0.5" />
+	<opcode name="sample" value="samples/F4_03.flac" />
+</region>
+<region>
+	<opcode name="lorand" value="0.5" />
+	<opcode name="hirand" value="0.6667" />
+	<opcode name="sample" value="samples/F4_04.flac" />
+</region>
+<region>
+	<opcode name="lorand" value="0.6667" />
+	<opcode name="hirand" value="0.8333" />
+	<opcode name="sample" value="samples/F4_05.flac" />
+</region>
+<region>
+	<opcode name="lorand" value="0.8333" />
+	<opcode name="hirand" value="1.0" />
+	<opcode name="sample" value="samples/F4_06.flac" />
+</region>
+<group>
+	<opcode name="key" value="67" />
+</group>
+<region>
+	<opcode name="lorand" value="0.0" />
+	<opcode name="hirand" value="0.1667" />
+	<opcode name="sample" value="samples/G4_01.flac" />
+</region>
+<region>
+	<opcode name="lorand" value="0.1667" />
+	<opcode name="hirand" value="0.3333" />
+	<opcode name="sample" value="samples/G4_02.flac" />
+</region>
+<region>
+	<opcode name="lorand" value="0.3333" />
+	<opcode name="hirand" value="0.5" />
+	<opcode name="sample" value="samples/G4_03.flac" />
+</region>
+<region>
+	<opcode name="lorand" value="0.5" />
+	<opcode name="hirand" value="0.6667" />
+	<opcode name="sample" value="samples/G4_04.flac" />
+</region>
+<region>
+	<opcode name="lorand" value="0.6667" />
+	<opcode name="hirand" value="0.8333" />
+	<opcode name="sample" value="samples/G4_05.flac" />
+</region>
+<region>
+	<opcode name="lorand" value="0.8333" />
+	<opcode name="hirand" value="1.0" />
+	<opcode name="sample" value="samples/G4_06.flac" />
+</region>
+<group>
+	<opcode name="key" value="69" />
+</group>
+<region>
+	<opcode name="lorand" value="0.0" />
+	<opcode name="hirand" value="0.1667" />
+	<opcode name="sample" value="samples/A4_01.flac" />
+</region>
+<region>
+	<opcode name="lorand" value="0.1667" />
+	<opcode name="hirand" value="0.3333" />
+	<opcode name="sample" value="samples/A4_02.flac" />
+</region>
+<region>
+	<opcode name="lorand" value="0.3333" />
+	<opcode name="hirand" value="0.5" />
+	<opcode name="sample" value="samples/A4_03.flac" />
+</region>
+<region>
+	<opcode name="lorand" value="0.5" />
+	<opcode name="hirand" value="0.6667" />
+	<opcode name="sample" value="samples/A4_04.flac" />
+</region>
+<region>
+	<opcode name="lorand" value="0.6667" />
+	<opcode name="hirand" value="0.8333" />
+	<opcode name="sample" value="samples/A4_05.flac" />
+</region>
+<region>
+	<opcode name="lorand" value="0.8333" />
+	<opcode name="hirand" value="1.0" />
+	<opcode name="sample" value="samples/A4_06.flac" />
+</region>
+<group>
+	<opcode name="key" value="70" />
+</group>
+<region>
+	<opcode name="lorand" value="0.0" />
+	<opcode name="hirand" value="0.2" />
+	<opcode name="sample" value="samples/Bb4_01.flac" />
+</region>
+<region>
+	<opcode name="lorand" value="0.2" />
+	<opcode name="hirand" value="0.4" />
+	<opcode name="sample" value="samples/Bb4_02.flac" />
+</region>
+<region>
+	<opcode name="lorand" value="0.4" />
+	<opcode name="hirand" value="0.6" />
+	<opcode name="sample" value="samples/Bb4_03.flac" />
+</region>
+<region>
+	<opcode name="lorand" value="0.6" />
+	<opcode name="hirand" value="0.8" />
+	<opcode name="sample" value="samples/Bb4_04.flac" />
+</region>
+<region>
+	<opcode name="lorand" value="0.8" />
+	<opcode name="hirand" value="1.0" />
+	<opcode name="sample" value="samples/Bb4_05.flac" />
+</region>
+<group>
+	<opcode name="key" value="72" />
+</group>
+<region>
+	<opcode name="lorand" value="0.0" />
+	<opcode name="hirand" value="0.2" />
+	<opcode name="sample" value="samples/C5_01.flac" />
+</region>
+<region>
+	<opcode name="lorand" value="0.2" />
+	<opcode name="hirand" value="0.4" />
+	<opcode name="sample" value="samples/C5_02.flac" />
+</region>
+<region>
+	<opcode name="lorand" value="0.4" />
+	<opcode name="hirand" value="0.6" />
+	<opcode name="sample" value="samples/C5_03.flac" />
+</region>
+<region>
+	<opcode name="lorand" value="0.6" />
+	<opcode name="hirand" value="0.8" />
+	<opcode name="sample" value="samples/C5_04.flac" />
+</region>
+<region>
+	<opcode name="lorand" value="0.8" />
+	<opcode name="hirand" value="1.0" />
+	<opcode name="sample" value="samples/C5_05.flac" />
+</region>
+<group>
+	<opcode name="key" value="74" />
+</group>
+<region>
+	<opcode name="lorand" value="0.0" />
+	<opcode name="hirand" value="0.2" />
+	<opcode name="sample" value="samples/D5_01.flac" />
+</region>
+<region>
+	<opcode name="lorand" value="0.2" />
+	<opcode name="hirand" value="0.4" />
+	<opcode name="sample" value="samples/D5_02.flac" />
+</region>
+<region>
+	<opcode name="lorand" value="0.4" />
+	<opcode name="hirand" value="0.6" />
+	<opcode name="sample" value="samples/D5_03.flac" />
+</region>
+<region>
+	<opcode name="lorand" value="0.6" />
+	<opcode name="hirand" value="0.8" />
+	<opcode name="sample" value="samples/D5_04.flac" />
+</region>
+<region>
+	<opcode name="lorand" value="0.8" />
+	<opcode name="hirand" value="1.0" />
+	<opcode name="sample" value="samples/D5_05.flac" />
+</region>
